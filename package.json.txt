@@ -1,0 +1,17 @@
+{
+ "name": "karierist_bot",
+ "version": "1.0.0",
+ "description": "",
+ "main": "game.js"
+ "scripts": {
+   "start": "node game.js"
+   },
+   "engines": {
+    "node": "12.16.2"
+    },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+    "node-karierist-bot-vk": "^0.29.0"
+	 }
+} 

@@ -1,0 +1,126 @@
+{
+	"5": {
+		"owner": 5,
+		"name": "Парашки!",
+		"id": 5,
+		"rating": 2,
+		"money": 1544393,
+		"player": 1,
+		"moneytime": {
+			"5": {
+				"money": 25000000
+			}
+		},
+		"players": {
+			"5": {
+				"id": 373511540,
+				"rank": 3,
+				"money": 0,
+				"timemoney": {}
+			}
+		},
+		"add": {},
+		"win": 8,
+		"louse": 7,
+		"attackyou": 0,
+		"guard": 0,
+		"shielddate": "1 часа.",
+		"knight": 250,
+		"attacktimer": 0,
+		"attackdate": "22.03.2020 в 19:58",
+		"bowman": 1
+	},
+	"7": {
+		"owner": 3,
+		"name": "картошка)",
+		"id": 7,
+		"rating": 10,
+		"money": 402575790,
+		"player": 1,
+		"moneytime": {
+			"3": {
+				"money": 27578534658246
+			}
+		},
+		"players": {
+			"3": {
+				"id": 360907275,
+				"rank": 3,
+				"money": 0,
+				"timemoney": {}
+			}
+		},
+		"add": {},
+		"win": 0,
+		"louse": 3,
+		"attackyou": 0,
+		"guard": 0,
+		"shielddate": "1 часа.",
+		"knight": 500,
+		"attacktimer": 0,
+		"attackdate": "22.03.2020 в 17:38",
+		"bowman": 2500
+	},
+	"8": {
+		"owner": 1,
+		"name": "инвалидочка",
+		"id": 8,
+		"rating": 7,
+		"money": 114946089561,
+		"player": 1,
+		"moneytime": {
+			"1": {
+				"money": 177876345689
+			}
+		},
+		"players": {
+			"1": {
+				"id": 439333819,
+				"rank": 3,
+				"money": 0,
+				"timemoney": {}
+			}
+		},
+		"add": {},
+		"win": 7,
+		"louse": 2,
+		"attackyou": 0,
+		"guard": 0,
+		"shielddate": "1 часа.",
+		"knight": 5710,
+		"attacktimer": 0,
+		"attackdate": "26.03.2020 в 12:25",
+		"bowman": 1
+	},
+	"9": {
+		"owner": 4,
+		"name": "суширолл",
+		"id": 9,
+		"rating": 49,
+		"money": 4122736315,
+		"player": 1,
+		"moneytime": {
+			"4": {
+				"money": 27268561414
+			}
+		},
+		"players": {
+			"4": {
+				"id": 328584571,
+				"rank": 3,
+				"money": 0,
+				"timemoney": {}
+			}
+		},
+		"add": {},
+		"win": 0,
+		"louse": 3,
+		"attackyou": 0,
+		"guard": 60,
+		"shielddate": "1 часа.",
+		"knight": 650,
+		"attacktimer": 0,
+		"attackdate": "22.03.2020 в 18:37",
+		"bowman": 200
+	}
+}
